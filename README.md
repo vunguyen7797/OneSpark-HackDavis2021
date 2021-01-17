@@ -1,6 +1,6 @@
 # one_spark
 
-A new Flutter application.
+HackDavis 2021 Submission
 
 ## Getting Started
 
