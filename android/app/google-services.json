@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1044578602384",
+    "firebase_url": "https://onespark-faa8d-default-rtdb.firebaseio.com",
+    "project_id": "onespark-faa8d",
+    "storage_bucket": "onespark-faa8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044578602384:android:174cc302cd8c3a201f3715",
+        "android_client_info": {
+          "package_name": "com.vnguyen.one_spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57JO870lJGnEXJbQ4JZsbOSUXEDjBrMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044578602384:android:bdafc12d4be783c11f3715",
+        "android_client_info": {
+          "package_name": "com.vnguyen.spark_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57JO870lJGnEXJbQ4JZsbOSUXEDjBrMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044578602384:android:c1a2401d881eb8fd1f3715",
+        "android_client_info": {
+          "package_name": "twilio.flutter.programmable_video_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57JO870lJGnEXJbQ4JZsbOSUXEDjBrMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044578602384-2kbol1ecsp1sjj29racah2bsimhv7cu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
