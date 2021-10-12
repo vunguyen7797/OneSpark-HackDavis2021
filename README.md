@@ -17,7 +17,8 @@ This is an MVP, not a completed product.
 ## Inspiration
 If, like our team members, you have led or participated in a social initiative before, you probably share our opinion that establishing a social project is not easy. Social projects that just start out face countless problems regarding establishing credibility, doing publicity, recruiting team members, and finding funding to name a few.
 
-We believe that doing good should not be so difficult, especially given the vibrant community of people who care about social good (like all of you who participated in this Hackathon for social good!)
+We believe that doing good should not be so difficult, especially given the vibrant community of people who care about social good (like all of you who participated in this Hackathon for social good!).
+
 ![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%281%29.jpg?raw=true)
 
 ## What it does
