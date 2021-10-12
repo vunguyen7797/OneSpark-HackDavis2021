@@ -23,6 +23,7 @@ We believe that doing good should not be so difficult, especially given the vibr
 ## What it does
 
 That is why we built OneSpark, an ecosystem for social good where people can help each other make their social initiative more impactful. OneSpark makes it easy for social initiatives to create their first public profile and broadcast their project ideas to a community who cares. Social impact groups can also find partners, mentors and donors for their project through the platform, hence receiving the support they need to launch their project.
+
 ![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%282%29.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%285%29.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%286%29.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%287%29.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%288%29.jpg?raw=true)![enter image description here](https://github.com/vunguyen7797/hackdavis2021_onespark/blob/master/gallery%20%289%29.jpg?raw=true)
 
 ## How we built it
